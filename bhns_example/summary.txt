@@ -1,0 +1,5 @@
+ Case A:           2
+ Case B:           1
+ Case C:           0
+ Inverse mass transfer past secondary H depletion, primary off MS.
+ Normal termination
